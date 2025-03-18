@@ -1,5 +1,5 @@
 package main
-
+//HISYAM NURDIATMOKO 103112400049
 import "fmt"
 
 func hitungSkor(jumlahSoal int, waktu *int, soal *int) {
